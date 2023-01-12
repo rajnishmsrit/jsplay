@@ -1,7 +1,7 @@
 // lodash // array, objects, strings
 
 // Debouncing is a interface level concept ex - search on mobile or web, autosave feature,
-// elminating double clicks propagation
+// eliminating double clicks propagation
 // type onChange time,
 // Onkeystroke and if any more events are available for us
 
@@ -23,11 +23,13 @@
 //
 
 // How does JS gets executed?
-// Execution Context  / Memory // Code
-// Scope, Hoisting and temporal dead zone 
+// Execution Context / Memory // Code
+// Lexical Environment
+// Scope and Scope chaining, Hoisting and temporal dead zone
 // Closures 
 
 // primitives and coercing
+// Symbol
 // Function and first class citizens
 // Pure Functions and Higher Order Functions 
 
