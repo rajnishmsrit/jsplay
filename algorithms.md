@@ -27,3 +27,39 @@
 // Local storage // IndexedDB
 
 // Difference b/w window in desktop apps, vs browser vs mobile
+
+
+Array
+    -   map, filter, reduce
+    -   Lodash Array stuff
+
+
+Strings
+Objects
+Sorting
+Memoization
+Stack
+    - FIFO
+Queue
+    - FILO
+Linked list
+    - Singly LL
+    - Doubly LL
+    - Circular LL
+Trees
+    -    height
+    -    BFS
+    -    DFS
+
+Graph
+
+
+Types of Algorithms
+BFS
+DFS
+Divide and Conquer
+Recursion
+Dynamic Programming
+
+Types of Data Structure
+
