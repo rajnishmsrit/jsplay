@@ -1,17 +1,7 @@
-function myExpect(input) {
-// your code here
-return {
-    toBe: (this.input) => input,
-    not:{
-      toBe: (this.input) => input
-    }
-  }
-}
+console.log(a);
+let a = 4;
 
-myExpect(3).toBe(3);
-// expect(3).not.toBe(3) 
-
-
+// Shadowing 
 
 // console.log(d);
 // d=4;
